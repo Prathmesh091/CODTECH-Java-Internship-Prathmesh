@@ -68,17 +68,8 @@ A simple Java-based **recommendation engine** that suggests items to users based
     ```
     java FileName
     ```
-5. Review individual folders for specific instructions if required.
-
----
-
 ## 🌟 Author
 **Prathmesh Wandhe**  
 Java Intern at CODTECH IT Solutions
 
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com/Prathmesh091)
 
----
-
-## 📌 License
-This repository is open for learning and reference under the MIT License.
